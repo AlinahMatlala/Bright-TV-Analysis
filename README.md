@@ -35,7 +35,7 @@ Contains three separate sheets. Must be downloaded and opened locally to be view
 - Gender analysis shows a strong male-dominated audience, suggesting that current content offerings may appeal more to male viewers. 
 - Viewership is highly concentrated in certain regions, particularly Gauteng.
 
-### Tools and Technologies Used:
+### Tools Used:
 The project utilized a combination of tools for data processing, analysis, planning, and presentation:
 - Databricks: Used for storing, querying, and processing large datasets
 - SQL: Used extensively for data cleaning, transformation, and merging tables through joins and structured queries
